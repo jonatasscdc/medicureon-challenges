@@ -23,7 +23,7 @@ A robust REST API for tracking Ethereum and ERC-20 token transactions. This serv
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/simple-cryptocurrency-transaction-tracking.git
+git clone https://github.com/jonatasscdc/simple-cryptocurrency-transaction-tracking.git
 cd simple-cryptocurrency-transaction-tracking
 ```
 
