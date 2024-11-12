@@ -1,0 +1,21 @@
+{
+  "name": "nft-metadata-retrieval-storage",
+  "version": "1.0.0",
+  "description": "API endpoint to fetch and store NFT metadata",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "web3": "^4.15.0",
+    "mongoose": "^8.0.0",
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+} 
